@@ -4,19 +4,16 @@ package org.tnsif.intro;
 public class DataTypesDemo {
 
 	public static void main(String[] args) {
-		//byte=> 1byte
+		
 		byte a=127;
-		//integer=>4 byte
 		int b=128;
 		long b1=877686879809l;
-		//float=>
 		float c=12/5;
 		float d=5/2.5f;
-		//
 		double e=12/5;//2.0
 		double f=12d/5d;//2.4
 		
-		//character
+		//character- 1byte
 		char z='s';
 		
 		//ASCII representation
