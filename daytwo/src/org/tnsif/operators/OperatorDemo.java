@@ -1,5 +1,6 @@
 package org.tnsif.operators;
 
+//to demonstrate the example on types of operators
 import java.util.Scanner;
 
 public class OperatorDemo {
@@ -32,7 +33,7 @@ public class OperatorDemo {
 		System.out.println(res2);
 		System.out.println(res3);
 		System.out.println(res4);
-*/
+		*/
 		//bitwise
 		/*int a=12 & 5;
 		int b=12 | 5;
